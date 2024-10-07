@@ -4,7 +4,7 @@ Some Python scripts and utils for generating swatch patterns where you encode th
 
 ## Features (TODOs)
 
- [X] Encode information into stitches
- [ ] Add a selvage
- [ ] Include selvage stitches in the cast on number
- [ ]
+ - [X] Encode information into stitches
+ - [ ] Add a selvage
+ - [ ] Include selvage stitches in the cast on number
+ - [ ]
